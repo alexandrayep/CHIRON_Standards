@@ -1,4 +1,4 @@
-#name 	 spt 	 sval 	 Teff 	 Tefferr 	 V 	 ra 	 dec 	 vsini 	 vsinierr 	 rv 	 rverr 	 ref 	 achi 	 jd 	 obsra 	 obsdec 	 exptime 	 barycorr 	 obsnotes
+#name 	 spt 	 sval 	 Teff 	 Tefferr 	 V 	 ra 	 dec 	 vsini 	 vsinierr 	 rv 	 rverr 	 refs:teff_vsini_rv 	 achi 	 jd 	 obsra 	 obsdec 	 exptime 	 barycorr 	 obsnotes
 HD4622 	 B9V 	 51.0 	 10327.0 	 481.280468011 	 5.57 	 00 48 01.0647 	 -21 43 20.991 	 61.0 	 nan 	 21.5 	 1.9 	 Soubiran2016Royer2007Kharchenko2007 	 achi181102.1137.fits 	 2458425.71987 	 12.0122083333 	 -21.7220833333 	 300.0 	 -17.5713692 	 GOOD:36700.4-130457.0
 ECen 	 A0V 	 50.0 	 9893.0 	 7.0 	 5.34 	 12 08 14.7120 	 -48 41 32.949 	 74.0 	 nan 	 7.2 	 0.5 	 Soubiran2016Royer2007Gontcharov2006 	 achi190613.1136.fits 	 2458648.67736 	 182.068583333 	 -48.6965277778 	 130.103 	 -18.1391489162 	 GOOD-underexposed:12092.7-41366.9
 HD91375 	 A1V 	 49.0 	 9333.0 	 9333.0 	 4.718 	 10 30 20.1271 	 -71 59 34.060 	 10.0 	 nan 	 7.5 	 0.4 	 Soubiran2016Royer2002Gontcharov2006 	 achi190419.1134.fits 	 2458593.72354 	 157.576291667 	 -71.9932222222 	 62.554 	 2.8558789616 	 GOOD-underexposed:13220.5-42994.8
